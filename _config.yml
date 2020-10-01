@@ -1,6 +1,6 @@
 utc: “2020-10-29 6:00:00 -0400” #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
 name: "2020 CyberSEEC (Cyber Security Exercises for Electric Communities)" #Required. The human-readable name of the event
-logo: "https://github.com/CyberSEEC/test/blob/main/CyberSEEC-logo.png" #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
+logo: "https://github.com/CyberSEEC/test/assets/img/CyberSEEC-logo.png" #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
 description: "My event will be so awesome. Check this
 site to see how much longer is left until. Get excited!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "CyberSEEC.com" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
